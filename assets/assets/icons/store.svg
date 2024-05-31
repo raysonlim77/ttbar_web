@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f68e13"/>
+      <stop offset="0.469" stop-color="#ed5803"/>
+      <stop offset="1" stop-color="#ec6e08"/>
+    </linearGradient>
+  </defs>
+  <g id="store" transform="translate(-485 -22)">
+    <rect id="Rectangle_2552" data-name="Rectangle 2552" width="50" height="50" rx="10" transform="translate(485 22)" fill="none"/>
+    <path id="Path_299" data-name="Path 299" d="M37.875,8h-30v3.75h30ZM39.75,26.75V23l-1.875-9.375h-30L6,23v3.75H7.875V38h18.75V26.75h7.5V38h3.75V26.75Zm-16.875,7.5H11.625v-7.5h11.25Z" transform="translate(487 24)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
